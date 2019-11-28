@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tandat198/TodoList.git"
+  },
+  "keywords": [
+    "Dat",
+    "Nguyen"
+  ],
+  "author": "Dat Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tandat198/TodoList/issues"
+  },
+  "homepage": "https://github.com/tandat198/TodoList#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

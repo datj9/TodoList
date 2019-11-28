@@ -13,8 +13,7 @@ $("input").keypress(function(event) {
         if($("input").val() != "") {
             $("ul").append("<li><span><i class=\"fas fa-trash-alt\"></i></span> "  + "<p>" + $(this).val() + "</p>" + "</li>");
             $("input").val("");
-        }
-       
+        }    
     }
 })
 $(".fa-plus").click(function() {
